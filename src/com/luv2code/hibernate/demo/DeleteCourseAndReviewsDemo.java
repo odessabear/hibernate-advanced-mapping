@@ -45,6 +45,8 @@ public class DeleteCourseAndReviewsDemo {
 			//commit transaction
 			session.getTransaction().commit();
 			
+			
+		
 			System.out.println("Well Done!");
 			
 		} finally {
